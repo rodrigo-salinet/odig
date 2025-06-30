@@ -1,0 +1,45 @@
+a:link {
+	color: #00FF00;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFFFFF;
+	background-color: #000000;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+.titulo {
+	text-decoration: italic;
+}
+
+.pgConfig {
+	background-color: #000090;
+	color: #FFD700;
+	margin: 0;
+	border: 0;
+	bar: none;
+}
+
+.tblConfig {
+	border: 0;
+	padding: 0;
+	width: 50%;
+}
+
+.bgFrase {
+	background-color: #004000;
+}
+
+.centralizar {
+	text-align: center;
+}
+
+.fraseConfig {
+	font-family: Verdana, Arial, Times;
+	text-align: justify;
+	font-size: 19;
+}

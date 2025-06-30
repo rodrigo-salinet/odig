@@ -1,0 +1,53 @@
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFFFFF;
+	background-color: #000000;
+}
+
+a:visited {
+	color: #808080;
+	text-decoration: none;
+}
+
+.pgConfig {
+	font-family: tahoma;
+	margin: 0;
+	border: 0;
+	color: #FFFFFF;
+}
+
+.tbl_rotina {
+	margin: 0;
+	padding: 0;
+}
+
+.rotina {
+	font-size: 10px;
+	color: #00FFFF;
+}
+
+.saudacao {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.tblConfig {
+	border: 0;
+	padding: 0;
+	width: 50%;
+}
+
+.fraseConfig {
+	text-indent: 40;
+	background-color: #000000;
+	text-align: justify;
+	font-size: 19;
+}
+
+.rodape {
+	font-size: 10px;
+}

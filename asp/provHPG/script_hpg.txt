@@ -1,0 +1,7 @@
+<!--hpG begin-->
+  <SCRIPT LANGUAGE="JAVASCRIPT">
+    <!--var username = "digoboy";var i = "2219";//-->
+  </SCRIPT>
+  <SCRIPT LANGUAGE="JAVASCRIPT" SRC="http://www.hpg.com.br/banners/banner_popup_js.php3?cat=2219&i=2219&username=digoboy" TYPE="text/javascript">
+  </SCRIPT>
+<!--hpG end-->
